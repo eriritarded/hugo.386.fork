@@ -740,12 +740,12 @@ a.text-info:focus {
 }
 
 .text-success {
-  color: #AA006F;
+  color: #00aa00;
 }
 
 a.text-success:hover,
 a.text-success:focus {
-  color: #AA006F;
+  color: #00aa00;
 }
 
 .text-left {
@@ -846,7 +846,7 @@ h4 small {
 .page-header {
   padding: 20px 20px;
   margin: 20px 0 20px;
-  background: #5500AA;
+  background: #00aaaa;
 }
 
 .page-header h1 {
