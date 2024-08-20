@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="{{ .Site.Language.Lang }}">
     {{- partial "head.html" . -}}
+	<head>{{ partialCached "analytics.html" . }}</head>
     <body>
         {{- partial "header.html" . -}}
         <div id="content" class="container">
